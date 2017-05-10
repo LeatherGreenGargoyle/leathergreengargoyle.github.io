@@ -16,7 +16,7 @@
 - company: TrainRecc 
   position: <a href="https://github.com/LeatherGreenGargoyle/greenfield-trainRecc">Repo</a>
   duration:  Full-Stack Engineer
-  summary: Music suggestions via collaborative playlists, created by other users<ul><li>Instituted route-guards & local-strategy sign-in protecting site from unauthorized users</li><li>Implemented intuitive site navigation & component-routing, streamlining user-experience</li><li>Installed frontend input features responsible for data transmission & rendering responses</li><li>Composed API routes allowing server to accept and save songs & playlists to database</li></ul>
+  summary: Playlist-building app, driven by community recommendations<ul><li>Instituted route-guards & local-strategy sign-in protecting site from unauthorized users</li><li>Implemented intuitive site navigation & component-routing, streamlining user-experience</li><li>Installed frontend input features responsible for data transmission & rendering responses</li><li>Composed API routes allowing server to accept and save songs & playlists to database</li></ul>
 
 # Front Desk Attendant
 - company: CraftBook
