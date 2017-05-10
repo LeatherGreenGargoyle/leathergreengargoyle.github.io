@@ -1,6 +1,6 @@
 # Site settings
-title: Andrew Tran
-description: "Projects, Works in Progress, Achievements"
+title: "Jekyll Resume Template"
+description: "A resume template for Jekyll and GitHub Pages sites."
 
 # Build settings
 markdown: kramdown
@@ -10,12 +10,12 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Andrew Tran"
-resume_title:                   "Software Engineer"
+resume_name:                    "Homer J. Simpson"
+resume_title:                   "Nuclear Safety Inspector"
 resume_contact_email:
-  "avtran23@gmail.com"
-resume_header_contact_info: "(626) 272 - 8170 | avtran23@gmail.com"
-resume_header_intro: "<p>In my first position as a pop culture writer, my editor tried fervently to communicate one thing to the staff and me: "We live in the Wild West right now. We can do anything we want." I didn't understand him then, but today as a software engineer, no other thought guides my hand so fully. I am a maker, and I would be a pitiful one if I didn't believe in the infinitude of ideas. </p>"
+  "homerjsimpson@youremailaddress.com"
+resume_header_contact_info: "742 Evergreen Terrace, Springfield | 555-7334 | homerjsimpson@youremailaddress.com"
+resume_header_intro: "<p>In my first job as an online pop culture writer, my editor wanted us to understand one thing: "With regards to the internet... We live in the Wild West right now. We can do anything we want." I didn't understand him then, but today as a software engineer, no other thought guides my hand so fully.</p><p>Today I am most inspired by applications and technologies which make possible novel, more fulfilling lifestyles and modes of thought. While conceptualizing and building my software, I like to imagine that I'm building a new limb for the user: it must be empowering as a fist, as second-nature as blinking, and as robust as the human heart, capable of beating for a lifespan.</p"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
