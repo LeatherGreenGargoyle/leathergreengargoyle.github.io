@@ -15,7 +15,7 @@ resume_title:                   "Software Engineer"
 resume_contact_email:
   "avtran23@gmail.com"
 resume_header_contact_info: "(626) 272 - 8170| avtran23@gmail.com"
-resume_header_intro: "<p>In my first job as an online pop culture writer, my editor wanted us to understand one thing: 'With regards to the internet... We live in the Wild West right now. We can do anything we want.' I didn't understand him then, but today as a software engineer, no other thought guides my hand so fully.</p><p>Today I am most inspired by applications and technologies which make possible novel, more fulfilling lifestyles and modes of thought. While conceptualizing and building my software, I like to imagine that I'm building a new limb for the user: it must be empowering as a fist, as second-nature as blinking, and as robust as the human heart, capable of beating for a lifespan.</p>"
+resume_header_intro: "<p>In my first job as an online pop culture writer, my editor wanted us to understand one thing: 'With regards to the internet... We live in the Wild West right now. We can do anything we want.' I didn't understand him then, but today as a software engineer, no other thought guides my hand so fully.</p><p>I am most inspired by technologies which make possible novel, more fulfilling lifestyles and modes of thought. While conceptualizing and building my software, I imagine that I'm building a new limb for the user: it must be empowering as a fist, as second-nature as blinking, and as robust as the human heart, capable of beating for a lifespan.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -40,7 +40,7 @@ resume_social_links:
   resume_twitter_url:           "http://twitter.com/smistersman"
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/drewvtran"
-  # resume_instagram_url:         "insert your Instagram URL here"
+  resume_instagram_url:         "https://www.instagram.com/leathergreengargoyle/"
   # resume_website_url:           "http://joelglovier.com"
 resume_print_social_links:      true
 
