@@ -1,15 +1,26 @@
-# Recognitions
-- award: Outstanding Achievement
-  organization: Springfield Nuclear Power Plant
-  year: 2010
-  summary: Awarded for stopping a nuclear meltdown, even though I also started it.
+# Jobs
+# Springfield Nuclear Power Plant
+- company: Barambe
+  position: <a href="https://github.com/LeatherGreenGargoyle/bar-lord">Repo (Browser App)</a> || <a href="https://github.com/LeatherGreenGargoyle/bar-lord-mobile">Repo (Mobile App)</a>
+  duration: Full-Stack Engineer
+  summary: Bartending browser & mobile app for real-time order creation & management	<ul class="resume-item-list"><li>Integrated third-party payment API to enable secure, user-convenient transactions</li><li>Built user-reactive views for mobile app detailing and initiating payment information</li><li>Crafted input views enabling rapid rendering, modification, & submission of data</li><li>Designed API routes & controllers updating database of complexly-related menu items</li></ul>
 
-- award: Duff Beer Customer of the year
-  organization:
-  year: 1997 &mdash; 2001, 2003, 2008 &mdash; 2012
-  summary: Honored by <a href="https://en.wikipedia.org/wiki/Duff_Beer">Duff Beer</a> for being an outstanding customer several years straight. Qualifications included most beer consumed at a bar, most beer purchased, and most beer ralphed.
+# Windmill Crank Operator
+- company: Pick-A-Flick 
+  position: <a href="https://github.com/LeatherGreenGargoyle/4bros1app/tree/dev">Repo</a>
+  duration:  Full-Stack Engineer
+  summary: Search engine of movie streams, recommendations , and private screenings <ul><li>Devised trivia game layout & functionality, maximizing responsivity & user engagement</li><li>Repurposed legacy querying algorithm to rapidly validate client inputs against database</li><li>Created websocket configuration enabling chat functionality for private screenings</li><ul>
 
-- award: Moe's Patron of the Month
-  organization: 
-  year: 12/2001, 8/2004
-  summary: Specifically this prestigious awarded twice for stopping a robber with my belly.
+
+# Front Desk Attendant
+- company: TrainRecc 
+  position: <a href="https://github.com/LeatherGreenGargoyle/greenfield-trainRecc">Repo</a>
+  duration:  Full-Stack Engineer
+  summary: Playlist-building app, driven by community recommendations<ul><li>Instituted route-guards & local-strategy sign-in protecting site from unauthorized users</li><li>Implemented intuitive site navigation & component-routing, streamlining user-experience</li><li>Installed frontend input features responsible for data transmission & rendering responses</li><li>Composed API routes allowing server to accept and save songs & playlists to database</li></ul>
+
+# Front Desk Attendant
+- company: CraftBook
+  position: <a href="https://github.com/LeatherGreenGargoyle/craftbook">Repo</a>
+  duration:  Full-Stack Engineer
+  summary: Journaling app aimed at optimizing user’s growth in a craft of choice <ul><li>Devised and built system of prompted input-layouts encouraging user-engagement</li><li>Architected database organizing user inputs and maintaining authorization system</li><li>Organized and structured API routes enabling persistence of sensitive client data</li></ul>
+
