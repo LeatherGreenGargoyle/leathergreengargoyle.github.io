@@ -1,11 +1,11 @@
 # Associations
 - organisation: EloquentJS
-  role: EloquentJS
+  role: <a href='http://eloquentjavascript.net/'>EloquentJS</a>
   year: Marijn Haverbeke
   summary: Organized fund drives and participated in fundraising events for the benefit of families in third world countries without proper access to malt beverages.
 
 
 - organisation: You Don't Know JS
-  role: You Don't Know JS
+  role: <a href='https://github.com/getify/You-Dont-Know-JS'>You Don't Know JS</a>
   year: Kyle Simpson
   summary: Founding member of the local nuclear workers labor union.
