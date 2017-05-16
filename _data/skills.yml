@@ -6,3 +6,6 @@
 # Craft beer brewing
 - skill: Experienced
   description: Redux, Bluebird, CSS3, MySQL (incl. Sequelize), MongoDB (incl. Mongoose), Bluebird, Mocha, Chai, Passport
+
+- skill: In-Development
+  description: Jest, Jekyll, Docker

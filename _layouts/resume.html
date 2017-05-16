@@ -147,14 +147,14 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Associations</h2>
+          <h2>Reading List</h2>
         </header>
 
         {% for association in site.data.associations %}
         <div class="resume-item">
           <h3 class="resume-item-title"><a href="http://beerfortheworld.com">{{ association.organisation }}</a></h3>
-          <h4 class="resume-item-details">{{ association.role }} &bull; {{ association.year }}</h4>
-          <p class="resume-item-copy">{{ association.summary }}</p>
+          <h4 class="resume-item-details">{{ association.role }}</h4>
+          <!--<p class="resume-item-copy">{{ association.summary }}</p>-->
         </div>
         {% endfor %}
 
