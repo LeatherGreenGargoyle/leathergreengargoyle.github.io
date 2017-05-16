@@ -9,18 +9,11 @@
 - company: Huntington Learning Center
   position: Test Preparation and Writing Mentor
   duration:  2016 - 2017
-  summary: Search engine of movie streams, recommendations , and private screenings <ul><li>Devised trivia game layout & functionality, maximizing responsivity & user engagement</li><li>Repurposed legacy querying algorithm to rapidly validate client inputs against database</li><li>Created websocket configuration enabling chat functionality for private screenings</li><ul>
+  summary:  <ul><li>Directed study-groups, providing feedback and maintaining learning atmosphere</li><li>Worked one-on-one with students, providing lectures, feedback, and test strategy</li><ul>
 
 
 # Front Desk Attendant
-- company: Overmental
-  position: <a href="https://github.com/LeatherGreenGargoyle/greenfield-trainRecc">Repo</a>
-  duration:  Full-Stack Engineer
-  summary: Playlist-building app, driven by community recommendations<ul><li>Instituted route-guards & local-strategy sign-in protecting site from unauthorized users</li><li>Implemented intuitive site navigation & component-routing, streamlining user-experience</li><li>Installed frontend input features responsible for data transmission & rendering responses</li><li>Composed API routes allowing server to accept and save songs & playlists to database</li></ul>
-
-# Front Desk Attendant
-- company: CraftBook
-  position: <a href="https://github.com/LeatherGreenGargoyle/craftbook">Repo</a>
-  duration:  Full-Stack Engineer
-  summary: Journaling app aimed at optimizing user’s growth in a craft of choice <ul><li>Devised and built system of prompted input-layouts encouraging user-engagement</li><li>Architected database organizing user inputs and maintaining authorization system</li><li>Organized and structured API routes enabling persistence of sensitive client data</li></ul>
-
+- company: Overmental.com
+  position: Content Director, Columnist
+  duration:  2014-2016
+  summary: <ul><li>Conducted staff meetings incubating and executing new projects, ie documentaries, webzines</li><li>Wrote regular analytical / critical columns regarding film, music, television</li></ul>
